@@ -1,2 +1,5 @@
 # run flask app.
 flask --app hello run
+
+check for debug mode 
+flask --app hello run --debug
